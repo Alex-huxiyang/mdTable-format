@@ -1,12 +1,16 @@
 {
-  "name": "@nutui/prettier-plugin",
-  "version": "0.0.1",
-  "description": "",
+  "name": "prettier-markdown-table",
+  "version": "1.0.1",
+  "description": "A prettier plugin used to format tables in markdown files",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Alex-huxiyang/mdTable-format.git"
+},
   "devDependencies": {
     "linguist-languages": "^7.27.0",
     "prettier": "^3.3.2"
