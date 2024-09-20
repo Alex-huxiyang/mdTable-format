@@ -1,6 +1,6 @@
 {
   "name": "prettier-markdown-table",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A prettier plugin used to format tables in markdown files",
   "type": "module",
   "main": "index.js",
