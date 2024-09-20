@@ -8,14 +8,21 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/Alex-huxiyang/mdTable-format.git"
-},
-  "devDependencies": {
+    "type": "git",
+    "url": "https://github.com/Alex-huxiyang/mdTable-format.git"
+  },
+  "dependencies": {
     "linguist-languages": "^7.27.0",
+  },
+  "devDependencies": {
     "prettier": "^3.3.2"
   },
-  "keywords": ["prettier", "table", "markdown", "format"],
+  "keywords": [
+    "prettier",
+    "table",
+    "markdown",
+    "format"
+  ],
   "author": "Alex.hxy",
   "license": "MIT"
 }
