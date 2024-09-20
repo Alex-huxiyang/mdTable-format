@@ -12,7 +12,7 @@
     "url": "https://github.com/Alex-huxiyang/mdTable-format.git"
   },
   "dependencies": {
-    "linguist-languages": "^7.27.0",
+    "linguist-languages": "^7.27.0"
   },
   "devDependencies": {
     "prettier": "^3.3.2"
