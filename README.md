@@ -1,4 +1,4 @@
-# mdTable-format
+# prettier-markdown-table
 
 ## Intro
 
