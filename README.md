@@ -9,9 +9,14 @@
 ### Install
 
 ```bash
-npm i prettier-markdown-table
+npm i prettier-markdown-table -D
 ```
-
+```bash
+yarn add prettier-markdown-table -D
+```
+```bash
+pnpm add prettier-markdown-table -D
+```
 ### .prettierrc example
 
 ```json
